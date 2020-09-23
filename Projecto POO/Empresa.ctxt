@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Empresa()
+comment0.text=Construtor\ para\ objetos\ da\ classe\ Empresa
+comment1.params=listaClientes\ listaMotoristas\ listaVeiculos
+comment1.target=Empresa(Clientes.ListaCliente,\ Motoristas.ListaMotorista,\ Veiculos.ListaVeiculo)
+comment2.params=e
+comment2.target=Empresa(Empresa)
+comment3.params=
+comment3.target=Clientes.ListaCliente\ getListaClientes()
+comment3.text=M\u00E9todos\ getters\ *
+comment4.params=
+comment4.target=Motoristas.ListaMotorista\ getListaMotoristas()
+comment5.params=
+comment5.target=Veiculos.ListaVeiculo\ getListaVeiculos()
+numComments=6

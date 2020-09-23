@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VeiculoPesado()
+comment1.params=mat\ preco\ factor\ vel\ cap
+comment1.target=VeiculoPesado(java.lang.String,\ double,\ double,\ double,\ int)
+comment2.params=v
+comment2.target=VeiculoPesado(VeiculoPesado)
+comment3.params=
+comment3.target=int\ getCapacidade()
+comment4.params=cap
+comment4.target=void\ setCapacidade(int)
+comment5.params=
+comment5.target=VeiculoPesado\ clone()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8
